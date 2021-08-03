@@ -27,6 +27,11 @@ body{
     margin-left: 20%;
 }
 
+section{
+    max-width: 600px;
+    text-align: justify;
+}
+
 nav{
     /* max-width: 40%; */
     padding-top: 5%;
@@ -44,6 +49,10 @@ nav{
     align-items: center;
 }
 
+@media screen {
+    
+}
+
 /* nav {
   padding-top: 60px; 
   transition: 0.5s; 
@@ -56,6 +65,7 @@ code{
     font-size: 1.2rem;
     border-radius: 5px;
     padding: 5px;
+    white-space: pre-wrap
 }
 
 
