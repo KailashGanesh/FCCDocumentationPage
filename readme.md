@@ -2,14 +2,13 @@
 
 ## Link to [Live site]()
 
-
 ![screenshot of website](images/Screenshot.png)
 
 ### TODO
 - [x] pass all FCC tests
 - [x] link all section in nav bar
 - [x] make nav bar non-scrollable
-- [ ] Mobile Responsive
+- [x] Mobile Responsive
 - [ ] add content
 
 ### references 
