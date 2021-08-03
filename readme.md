@@ -2,7 +2,8 @@
 
 ## Link to [Live site]()
 
-<img scr="\images\Screenshot.png" alt="screenshot of website"></img>
+
+![screenshot of website](images/Screenshot.png)
 
 ### TODO
 - [x] pass all FCC tests
